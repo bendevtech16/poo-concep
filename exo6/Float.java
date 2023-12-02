@@ -1,8 +1,6 @@
 package exo6;
 
-import exo6.exo5.Affichable;
-
-public class Float extends Affichable {
+public class Float implements Affichable {
     public float a;
 
     public Float(float a) {

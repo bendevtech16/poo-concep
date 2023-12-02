@@ -1,8 +1,6 @@
 package exo6;
 
-import exo6.exo5.Affichable;
-
-public class Entier extends Affichable {
+public class Entier implements Affichable {
     public int a;
 
     public Entier(int a) {

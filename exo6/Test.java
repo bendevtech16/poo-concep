@@ -1,7 +1,5 @@
 package exo6;
 
-import exo6.exo5.Affichable;
-
 public class Test {
     public static void main(String[] args) {
         Affichable affichable1 = new Entier(45);
